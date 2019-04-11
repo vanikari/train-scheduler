@@ -1,0 +1,22 @@
+.text-center {
+    text-align: center;
+ 
+}
+
+h1 {
+    font-size: 63px;
+}
+
+.jumbotron {
+    background-color: #7F462C; 
+    color: white
+}
+
+.card-header, #submit {
+    color: #fff;
+    background-color: #337ab7;
+}
+
+.card, #submit {
+    border-color: #337ab7;
+}
